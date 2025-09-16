@@ -5,7 +5,7 @@ import pandas as pd
 
 # Groq API client with API key and base URL
 client = OpenAI(
-    api_key="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",
+    api_key="gsk_Mzob0S9cRzIB7FWQtcVOWGdyb3FYuYthC54VbGpiZD",
     base_url="https://api.groq.com/openai/v1"
 )
 
@@ -221,3 +221,4 @@ async def analyze(request: Request):
 
     except Exception as e:
         return HTMLResponse(f"<h3>Error: {str(e)}</h3>", status_code=500)
+
