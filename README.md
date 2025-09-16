@@ -1,6 +1,6 @@
-# 🗣️ Conversation Analyzer - Customer Call Transcript Analysis App
+# 💬 Conversation Analyzer - Customer Call Transcript Analysis App
 
-A simple **FastAPI**-based web app that analyzes customer call transcripts using the **Groq AI API**. The app summarizes conversations and extracts customer sentiment (positive, neutral, negative) and saves the results in a CSV file. 💬
+A simple **FastAPI**-based web app that analyzes customer call transcripts using the **Groq AI API**. The app summarizes conversations and extracts customer sentiment (positive, neutral, negative) and saves the results in a CSV file. 
 
 ---
 
