@@ -20,7 +20,7 @@ A simple **FastAPI**-based web app that analyzes customer call transcripts using
 - Python 
 - FastAPI - lightweight web framework for API and UI 
 - Pandas - CSV file handling 
-- Groq API - AI-powered text analysis 
+- Groq API - AI powered text analysis 
 - Uvicorn - ASGI server to run FastAPI 
 
 ---
