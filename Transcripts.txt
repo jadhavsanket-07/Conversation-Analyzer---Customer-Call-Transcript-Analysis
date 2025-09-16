@@ -1,5 +1,4 @@
-cd D:\07-SANKET\Assignment
-uvicorn app:app --reload
+Examples - 
 
 I received a damaged product and I want a replacement.
 
@@ -10,3 +9,4 @@ The delivery was late and the package was not properly sealed.
 I was charged twice for my subscription last month.
 
 The app keeps crashing whenever I try to upload a photo.
+
